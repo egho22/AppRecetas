@@ -17,4 +17,6 @@ ID—
 00000253255.
 00000248285.
 
+Los archivos correspondientes a las clases se encuentran dentro del /src
+
 En caso de dar error al hacer "run file", construir con dependencias.
